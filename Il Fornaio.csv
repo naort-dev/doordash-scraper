@@ -1,0 +1,84 @@
+Item,Description,Price,Category,Menu
+Pennoni,"Tube pasta, bacon, vodka-cream-tomato sauce, Grana Padano. 700 cal.",20.0,Popular Items,Dinner
+Tagliatelle Bolognese,"Egg pasta ribbons from Emilia-Romagna, meat ragu, grana padano. 780 cal.",21.0,Popular Items,Dinner
+Capellini,"Angel hair pasta, vine-ripened tomatoes, garlic, marinara, fresh basil (vegan). 690 cal.",19.0,Popular Items,Dinner
+Margherita,"Mozzarella, tomato, basil. 860 cal.",19.0,Popular Items,Dinner
+Cristina,"Prosciutto, fresh mozzarella, grana padano, mushrooms, wild arugula, white truffle oil. 1040 cal.",22.0,Popular Items,Dinner
+Pollo Toscano,"Free-range rotisserie chicken, seasonal vegetables, yukon gold potatoes. 980 cal.",29.0,Popular Items,Dinner
+Mare Chiaro,"Linguine, prawns, scallops, clams, mussels, filetto di pomodoro sauce. 890 cal.",27.0,Popular Items,Dinner
+Pollo al Peperoncino,"Gluten-free. Grilled free-range chicken breast, spicy peperoncino sauce, organic spinach, Yukon gold potatoes. 720 cal.",29.0,Popular Items,Dinner
+Scaloppine,"Veal, artichokes, lemon, Yukon gold potatoes, seasonal vegetables. 700 cal.",33.0,Popular Items,Dinner
+Rustichella,"Flatbread with goat cheese, mozzarella, vine-ripened tomatoes, red onion, kalamata olives. 440 cal.",16.0,Popular Items,Dinner
+Antipasti della Casa,"Prosciutto di Parma, spicy & mild Italian salame, mortadella with pistachios, caprese, bruschetta, grilled artichoke, housemade giardiniera, grana padano, mixed olives. 820 cal.",20.0,Antipasti - Shareable Appetizers,Dinner
+Antipasto di Pesce,"Gluten-free. Seared ahi tuna, spicy grilled calamari, scallops, shrimp. 290 cal.",21.0,Antipasti - Shareable Appetizers,Dinner
+Bruschetta,"Toasted ciabatta, marinated chopped heirloom tomatoes, basil, mixed olives (vegan). 430 cal.",12.0,Antipasti - Shareable Appetizers,Dinner
+Carpaccio,"Gluten-free. Raw certified Piedmontese beef, shaved Grana Padano, capers, wild arugula. 210 cal.",17.0,Antipasti - Shareable Appetizers,Dinner
+Rustichella,"Flatbread with goat cheese, mozzarella, vine-ripened tomatoes, red onion, kalamata olives. 440 cal.",16.0,Antipasti - Shareable Appetizers,Dinner
+Disclaimer,"Served raw or undercooked, or contains raw or undercooked ingredients. Consuming raw or undercooked meats, poultry, seafood, shellfish or eggs may increase your risk of food-borne illness, especially if you have certain medical conditions.",0.0,Antipasti - Shareable Appetizers,Dinner
+Caprese,"Gluten-free. Sliced heirloom tomatoes, fresh mozzarella, basil, mixed olives. 580 cal.",16.0,Insalate - Salads,Dinner
+Bietole,"Gluten-free. Organic beets, wild arugula, walnuts, goat cheese; lemon-olive oil. 400 cal.",14.0,Insalate - Salads,Dinner
+Cesarina,"Romaine lettuce, grana padano, hardboiled egg, focaccia croutons; caesar dressing. 310 cal.",15.0,Insalate - Salads,Dinner
+Del Fornaio,"Mixed greens, focaccia croutons, and shaved Grana Padano; house vinaigrette. 300 cal.",13.0,Insalate - Salads,Dinner
+Disclaimer,"Served raw or undercooked, or contains raw or undercooked ingredients. Consuming raw or undercooked meats, poultry, seafood, shellfish or eggs may increase your risk of food-borne illness, especially if you have certain medical conditions",0.0,Insalate - Salads,Dinner
+Cristina,"Prosciutto, fresh mozzarella, grana padano, mushrooms, wild arugula, white truffle oil. 1040 cal.",22.0,Pizza,Dinner
+Fradiavola,"Sausage, mushrooms, roasted bell peppers, red onions, spicy peperoncino oil. 1140 cal.",21.0,Pizza,Dinner
+Capricciosa,"Ham, artichokes, mushrooms, kalamata olives, Mozzarella. 990 cal.",21.0,Pizza,Dinner
+Burrata e Pesto,"Burrata, heirloom tomatoes, kalamata olives, tomato sauce & pesto. 1010 cal.",20.0,Pizza,Dinner
+Margherita,"Mozzarella, tomato, basil. 860 cal.",19.0,Pizza,Dinner
+Pennoni,"Tube pasta, bacon, vodka-cream-tomato sauce, Grana Padano. 700 cal.",20.0,Pasta Secca,Dinner
+Mare Chiaro,"Linguine, prawns, scallops, clams, mussels, filetto di pomodoro sauce. 890 cal.",27.0,Pasta Secca,Dinner
+Conchiglie,"Shell pasta, chicken breast, broccoli, sun-dried tomatoes, Pecorino cheese, garlic. 950 cal.",21.0,Pasta Secca,Dinner
+Capellini,"Angel hair pasta, vine-ripened tomatoes, garlic, marinara, fresh basil (vegan). 690 cal.",19.0,Pasta Secca,Dinner
+Tagliatelle Bolognese,"Egg pasta ribbons from Emilia-Romagna, meat ragu, grana padano. 780 cal.",21.0,Pasta Secca,Dinner
+Ravioli Lucana,"Organic spinach ravioli, Italian sausage, spicy tomato sauce, pecorino pepato. 880 cal.",22.0,Pasta e Gnocchi,Dinner
+Lasagna,"Pasta sheets, meat ragu, porcini mushrooms, grana padano, béchamel. 850 cal.",23.0,Pasta e Gnocchi,Dinner
+Gnocchi Bolognese,Traditional meat ragu. 680 cal.,21.0,Pasta e Gnocchi,Dinner
+Gnocchi Sorrentina,"Marinara sauce, mozzarella & fresh basil. 1100 cal.",20.0,Pasta e Gnocchi,Dinner
+Gnocchi Pesto,Housemade pesto sauce. 700 cal.,20.0,Pasta e Gnocchi,Dinner
+Pollo Toscano,"Free-range rotisserie chicken, seasonal vegetables, yukon gold potatoes. 980 cal.",29.0,"Girarrosto, Griglia e Specialita‘ - Rotisserie & Grill",Dinner
+Scaloppine,"Veal, artichokes, lemon, Yukon gold potatoes, seasonal vegetables. 700 cal.",33.0,"Girarrosto, Griglia e Specialita‘ - Rotisserie & Grill",Dinner
+Grigliata Mista,"Gluten-free. Salmon, calamari, scallops, fish fillet, prawns, yukon gold potatoes, broccolini. 800 cal.",35.0,"Girarrosto, Griglia e Specialita‘ - Rotisserie & Grill",Dinner
+Filetto,"Gluten-free. Beef tenderloin grilled rare, balsamic vinegar and green peppercorn sauce, organic spinach and Yukon gold potatoes. 930 cal.
+
+Served raw or undercooked, or contains raw or undercooked ingredients. Consuming raw or undercooked meats, poultry, seafood, shellfish or eggs may increase your risk of foodborne illness, especially if you have certain medical conditions.",41.0,"Girarrosto, Griglia e Specialita‘ - Rotisserie & Grill",Dinner
+Pollo al Peperoncino,"Gluten-free. Grilled free-range chicken breast, spicy peperoncino sauce, organic spinach, Yukon gold potatoes. 720 cal.",29.0,"Girarrosto, Griglia e Specialita‘ - Rotisserie & Grill",Dinner
+Disclaimer,"Served raw or undercooked, or contains raw or undercooked ingredients. Consuming raw or undercooked meats, poultry, seafood, shellfish or eggs may increase your risk of food-borne illness, especially if you have certain medical conditions.",0.0,"Girarrosto, Griglia e Specialita‘ - Rotisserie & Grill",Dinner
+Tiramisù,"Ladyfingers, Mascarpone, cocoa powder. 720 cal.",11.0,Dolci,Dinner
+Soffiato,"Warm almond hazelnut chocolate cake, caramel-sea salt gelato. 900 cal.",12.0,Dolci,Dinner
+Cannoli Siciliani,"Pastry shell, sheep’s milk Ricotta, candied orange, bittersweet chocolate, pistachios. 850 cal.",10.0,Dolci,Dinner
+Pennoni,"Tube pasta, bacon, vodka-cream-tomato sauce, grana padano. 700 cal.",20.0,Popular Items,Lunch
+Tagliatelle Bolognese,"Egg pasta ribbons from Emilia-Romagan, meat ragu, grana padano. 780 Cal.",21.0,Popular Items,Lunch
+Capellini,"Angel hair pasta, vine-ripened tomatoes, garlic, marinara, fresh basil (vegan). 690 cal.",19.0,Popular Items,Lunch
+Margherita,"Mozzarella, tomato, basil. 860 cal.",19.0,Popular Items,Lunch
+Cristina,"Prosciutto, fresh mozzarella, grana padano, mushrooms, wild arugula, white truffle oil. 1040 cal.",22.0,Popular Items,Lunch
+Fradiavola,"Sausage, mushrooms, roasted bell peppers, red onions, spicy pepperoncino oil. 1140 cal.",21.0,Popular Items,Lunch
+Antipasto Della Casa,"Prosciutto di parma, spicy and mild Italian salame, mortadella with pistachios, caprese, bruschetta, grilled artichoke, housemade giardiniera, grana padano, mixed olives. 820 cal.",20.0,Popular Items,Lunch
+Rustichella,"Flatbread with goat cheese, mozzarella, vine-ripened tomatoes, red onion, kalamata olives. 440 cal.",16.0,Popular Items,Lunch
+Antipasto Della Casa,"Prosciutto di parma, spicy and mild Italian salame, mortadella with pistachios, caprese, bruschetta, grilled artichoke, housemade giardiniera, grana padano, mixed olives. 820 cal.",20.0,Antipasto,Lunch
+Carpaccio,"Gluten-Free. Raw, certified Piedmontese beef, shaved grana padano, capers, wild arugula. 210 Cal.",17.0,Antipasto,Lunch
+Rustichella,"Flatbread with goat cheese, mozzarella, vine-ripened tomatoes, red onion, kalamata olives. 440 cal.",16.0,Antipasto,Lunch
+Bruschetta,"Toasted ciabatta, marinated chopped heirloom tomatoes, basil, mixed olives (vegan). 430 cal.",12.0,Antipasto,Lunch
+Caprese,"Gluten-free. Sliced heirloom tomatoes, fresh mozzarella, basil, mixed olives. 580 cal.",16.0,Insalate,Lunch
+Bietole,"Gluten-free. Organic beets, wild arugula, walnuts, goat cheese; lemon-olive oil. 400 cal.",14.0,Insalate,Lunch
+Cesarina,"Romaine lettuce, grana padano, hardboiled egg, focaccia croutons; caesar dressing. 310 cal.",15.0,Insalate,Lunch
+Del Fornaio,"Mixed greens, focaccia croutons, shaved grana padano; house vinaigrette. 300 cal.",13.0,Insalate,Lunch
+Regina,"Wild arugula, couscous, avocado, tomatoes, red onions, capers, raisins lemon extra-virgin olive oil (vegan).",15.0,Insalate,Lunch
+Cristina,"Prosciutto, fresh mozzarella, grana padano, mushrooms, wild arugula, white truffle oil. 1040 cal.",22.0,Pizzas,Lunch
+Fradiavola,"Sausage, mushrooms, roasted bell peppers, red onions, spicy pepperoncino oil. 1140 cal.",21.0,Pizzas,Lunch
+Capricciosa,"Ham, artichokes, mushrooms, kalamata olives, mozzarella. 990 cal.",21.0,Pizzas,Lunch
+Burrata e Pesto,"Burrata, heirloom tomatoes, kalamata olives, tomato sauce, and pesto. 1010 cal.",20.0,Pizzas,Lunch
+Margherita,"Mozzarella, tomato, basil. 860 cal.",19.0,Pizzas,Lunch
+Pennoni,"Tube pasta, bacon, vodka-cream-tomato sauce, grana padano. 700 cal.",20.0,Pasta Secca,Lunch
+Mare Chiaro,"Linguine, prawns, scallops, clams, mussels, filetto di pomodoro sauce. 890 cal.",27.0,Pasta Secca,Lunch
+Conchiglie,"Shell pasta, chicken breast, broccoli, sun-dried tomatoes, pecorino, garlic. 950 cal.",21.0,Pasta Secca,Lunch
+Capellini,"Angel hair pasta, vine-ripened tomatoes, garlic, marinara, fresh basil (vegan). 690 cal.",19.0,Pasta Secca,Lunch
+Tagliatelle Bolognese,"Egg pasta ribbons from Emilia-Romagan, meat ragu, grana padano. 780 Cal.",21.0,Pasta Secca,Lunch
+Ravioli Lucana,"Organic spinach ravioli, Italian sausage, spicy tomato sauce, pecorino pepato. 880 cal.",22.0,Pasta e Gnocchi,Lunch
+Lasagna,"Pasta sheets, meat ragu, porcini mushrooms, grana padano, béchamel. 850 cal.",23.0,Pasta e Gnocchi,Lunch
+Gnocchi Bolognese,Traditional meat ragu. 680 Cal.,21.0,Pasta e Gnocchi,Lunch
+Gnocchi Sorrentina,"Marinara sauce, mozzarella, and fresh basil. 1100 cal.",20.0,Pasta e Gnocchi,Lunch
+Gnocchi Pesto,Housemade pesto sauce. 700 cal.,20.0,Pasta e Gnocchi,Lunch
+Pollo al Peperoncino,"Gluten-free. Chicken breast, spicy peperoncino sauce, tuscan salad. 670 cal.",23.0,Piatti Unici,Lunch
+Piadina con Pollo,"Chicken breast sandwich on Italian flatbread, stacchino, mushrooms, arugula, onions, tomato, caesar dressing, French fries. 1590 cal.",17.0,Piatti Unici,Lunch
+Salmone con Spinaci,"Gluten-free. Salmon, organic baby spinach, red onions, mushrooms, walnuts, red wine vinaigrette. 610 cal.",24.0,Piatti Unici,Lunch
+Insalata di Pollo Dal Girarrosto,"Mixed greens, rotisserie chicken, applewood-smoked bacon, grana padano, heirloom tomatoes, croutons, house vinaigrette. 650 cal.",20.0,Piatti Unici,Lunch
